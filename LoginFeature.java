@@ -22,4 +22,8 @@ public class LoginFeature {
         return true;
     }
 
+    public static boolean fix() {
+        return true;
+    }
+
 }

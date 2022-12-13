@@ -16,4 +16,9 @@ public class ProfileFeature {
     public static void updateUsername(String username) {
 
     }
+
+    
+    public static boolean fix() {
+        return true;
+    }
 }

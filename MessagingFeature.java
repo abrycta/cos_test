@@ -20,5 +20,10 @@ public class MessagingFeature {
         return message;
     }
 
+    
+    public static boolean fix() {
+        return true;
+    }
+
 
 }
